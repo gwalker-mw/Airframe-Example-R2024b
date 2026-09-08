@@ -8,7 +8,7 @@ classdef f14_airframe_test < matlab.unittest.TestCase
     end
     
     methods(TestClassSetup)
-        
+           %
         function simulateModel(testCase)
             % create input data and assign it to the base workspace
             t = 1:10;
