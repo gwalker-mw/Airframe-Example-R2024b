@@ -8,6 +8,7 @@
  * Copyright 1990-2011 The MathWorks, Inc.
  */
 
+// comment
 
 #define S_FUNCTION_NAME  timesthree
 #define S_FUNCTION_LEVEL 2
